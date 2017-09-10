@@ -1,2 +1,2 @@
-# equiti-android-rn
-Equiti App - Stock Tracking Mobile Application
+# project-equiti
+Equiti App - Stock Tracking App
